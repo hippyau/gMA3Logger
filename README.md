@@ -1,7 +1,7 @@
 # gMA3Logger
 Logs System Monitor messages from gMA3 software and saves the log on Desktop/gMA3_Logs
 
-# Installation (kinda)
+### Installation (kinda)
 Add following line in ```~/.bash_profile```
 
 ```bash
@@ -13,7 +13,7 @@ Perhaps it is needed to change permissions for SysMon Logger, in such case, use:
 chmod +x SysMon\ Logger.sh
 ```
 
-# Execution
+### Execution
 ```bash
 gMA3Logger
 ```
