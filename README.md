@@ -8,6 +8,11 @@ Add following line in ```~/.bash_profile```
 alias gMA3Logger='sudo "<location of SysMon Logger.sh>/./SysMon Logger.sh"'
 ```
 
+Perhaps it is needed to change permissions for SysMon Logger, in such case, use:
+```bash
+chmod +x SysMon\ Logger.sh
+```
+
 # Execution
 ```bash
 gMA3Logger
